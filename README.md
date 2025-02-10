@@ -20,7 +20,7 @@ This is a feature-rich Java Swing calculator application that supports both basi
 How To Run
 To run this program, follow the instructions below:
 	Clone the repository:
-git clone https://github.com/yourusername/advanced-swing-calculator.git
+git clone https://github.com/Zaynerb01/Swing-Calculator-U23CS1007.git
 
 	Navigate to the project folder:
 cd advanced-swing-calculator
@@ -60,4 +60,4 @@ Feel free to fork this repository and contribute to it. You can:
 	Create a pull request with your changes.
 
 Contact
-If you have any questions, feel free to reach out via [email@example.com] or open an issue on the GitHub repository.
+If you have any questions, feel free to reach out via [zainabashir001@gmail.com] or open an issue on the GitHub repository.
